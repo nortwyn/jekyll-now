@@ -3,6 +3,10 @@ layout: page
 title: Album
 permalink: /album/
 ---
+### My Funky Heading
+{: #funky }
+
+The funky text is [described below](#funky)
 
 Album ini berisi dokumentasi dari kegiatan-kegiatan yang kami selenggarakan, agar dapat menjadi bukti adanya kegiatan kami.
 
