@@ -6,7 +6,7 @@ permalink: /album/
 
 Album ini berisi dokumentasi dari kegiatan-kegiatan yang kami selenggarakan, agar dapat menjadi bukti adanya kegiatan kami.
 
-# Search:
+#### Search:
 [10 Mei 2019](#1052019), [11 Mei 2019](#1152019)
 
 <h3 id="1052019">10 Mei 2019</h3> 
